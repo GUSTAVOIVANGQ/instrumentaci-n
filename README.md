@@ -1,2 +1,2 @@
 instrumentación y control Prof. Ismael
-proyecto de sensor de humedad
+proyecto de sensor de humedad.
